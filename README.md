@@ -4,7 +4,8 @@ This project implements a deep learning model to classify breast tumors as malig
 The model is a multi-layer perceptron (MLP) designed to predict tumor malignancy based on 569 samples with 30 features. The dataset is preprocessed and split for training and testing. Performance is measured using accuracy, precision, recall, and F1-score.
 <br>
 
-Key Features
+<b>Key Features</b>
+<br>
 Deep Learning Model: Fully connected neural network (MLP).
 <br>
 Dataset: Wisconsin Breast Cancer Dataset with 30 features.
@@ -16,7 +17,7 @@ Performance Metrics: Accuracy, precision, recall, and F1-score.
 Predictive System: Classifies tumors as malignant or benign.
 <br>
 
-Workflow
+<b>Workflow</b>
 <br>
 Preprocessing:
 <br>
@@ -40,8 +41,7 @@ Prediction System:
 Input data is passed to the trained model for tumor classification (malignant/benign).
 <br>
 
-Tools & Libraries:<br>
-
+<b>Tools & Libraries</b>
 Keras/TensorFlow: For model building and training.<br>
 Pandas & NumPy: Data manipulation and preprocessing.<br>
 Matplotlib & Seaborn: Visualization.<br>
