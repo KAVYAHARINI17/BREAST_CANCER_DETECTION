@@ -42,6 +42,7 @@ Input data is passed to the trained model for tumor classification (malignant/be
 <br>
 
 <b>Tools & Libraries</b>
+<br>
 Keras/TensorFlow: For model building and training.<br>
 Pandas & NumPy: Data manipulation and preprocessing.<br>
 Matplotlib & Seaborn: Visualization.<br>
